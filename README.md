@@ -11,4 +11,5 @@ Tito Julio González Padial\
 David Jiménez Guerrero\
 Antonio José Jiménez Luque\
 Pablo Martínez Guillén\
-Daniel López García
+Daniel López García\
+David Emanuel Tarca
