@@ -22,4 +22,5 @@ Juan Raul Mellado Garcia\
 Deian Orlando Petrovics\
 Cristina García Agüero\
 Cristian Gil García\
-Alejandro Manzano Ibáñez
+Alejandro Manzano Ibáñez\
+Antonio Aranda Hernández
