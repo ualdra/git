@@ -19,4 +19,5 @@ Alejandro Martínez Terrones\
 Carlos Carrión Martínez\
 Ayoub Fehri Boulaadas\
 Juan Raul Mellado Garcia\
-Deian Orlando Petrovics
+Deian Orlando Petrovics\
+Cristina García Agüero
