@@ -18,4 +18,5 @@ Joaquin Morales Nieto\
 Alejandro Martínez Terrones\
 Carlos Carrión Martínez\
 Ayoub Fehri Boulaadas\
-Juan Raul Mellado Garcia
+Juan Raul Mellado Garcia\
+Deian Orlando Petrovics
