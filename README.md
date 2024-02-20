@@ -12,4 +12,5 @@ David Jiménez Guerrero\
 Antonio José Jiménez Luque\
 Pablo Martínez Guillén\
 Daniel López García\
-David Emanuel Tarca
+David Emanuel Tarca\
+Luca Daniel Gavriloaie
