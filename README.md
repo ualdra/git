@@ -12,3 +12,4 @@ David Jiménez Guerrero
 Antonio José Jiménez Luque
 Pablo Martínez Guillén
 Daniel López García
+Luca Daniel Gavriloaie
