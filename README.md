@@ -5,4 +5,5 @@
 Francisco José García García
 
 ## Alumnos
-Adrian Galdeano Salinas
+Adrian Galdeano Salinas  
+Tito Julio González Padial
